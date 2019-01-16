@@ -1,0 +1,27 @@
+######################
+{
+	"Name":"Purificador Eletrônico",
+	"Category":"Eletronicos",
+	"Description":"Purificador Eletrônico Residence Masterfrio Preto com Cinza Bivolt",
+	"Price": 289,
+	"Thumb":"https://c.mlcdn.com.br//purificador-eletronico-residence-masterfrio-preto-com-cinza-bivolt-/v/210x210/650654400.jpg"
+
+}
+####################
+{
+	"Name":"Headphone/Fone de Ouvido JBL Bluetooth  - Dobrável T450BT",
+	"Category":"Eletronicos",
+	"Description":"Headphone/Fone",
+	"Price": 199,
+	"Thumb":"https://c.mlcdn.com.br//headphone-fone-de-ouvido-jbl-bluetooth-dobravel-t450bt/v/210x210/218608800.jpg"
+
+}
+####################
+{
+	"Name":"TV LGE",
+	"Category":"Eletronicos",
+	"Description":"TV LGE ultima geração",
+	"Price": 5000,
+	"Thumb":"https://i.zst.com.br/images/smart-tv-tv-led-32-lg-netflix-32lj600b-2-hdmi-photo189216058-12-9-17.jpg"
+
+}

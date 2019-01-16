@@ -1,0 +1,16 @@
+version: "3"
+services: 
+  api_dev:     
+    image: tadrianonet/everis 
+    ports:
+      - "5000:80"
+    depends_on:
+      - everis-db
+  everis-db:     
+    container_name: everis-db
+    image: tutum/mongodb 
+    ports:
+      - "27017:27017"
+      - "28017:28017"     
+    environment: 
+      - AUTH=no
